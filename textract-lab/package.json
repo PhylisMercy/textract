@@ -1,0 +1,13 @@
+{
+  "name": "textract-lab",
+  "version": "1.0.0",
+  "description": "textract",
+  "main": "index.js",
+  "author": "Phylis Mercy",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1392.0",
+    "commander": "^10.0.1",
+    "lodash": "^4.17.21"
+  }
+}

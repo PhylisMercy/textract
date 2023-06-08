@@ -1,0 +1,1 @@
+module.exports = {awsAccesskeyID: "AKIAU3XJXDTKKG2EEOUJ",awsSecretAccessKey: "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",awsRegion: "us-east-1"};
